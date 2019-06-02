@@ -1,0 +1,7 @@
+hematopoieticsystem_NODE  data/edgelists/macrophage.edgelist
+hematopoieticsystem_NODE  data/edgelists/leukocyte.edgelist
+hematopoieticsystem_NODE  blood_NODE
+blood_NODE data/edgelists/blood_platelet.edgelist
+blood_NODE data/edgelists/blood_plasma.edgelist
+blood_NODE data/edgelists/megakaryocyte.edgelist
+blood_NODE data/edgelists/hematopoietic_stem_cell.edgelist

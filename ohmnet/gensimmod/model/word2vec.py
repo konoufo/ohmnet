@@ -61,7 +61,7 @@ except ImportError:
         result = 0
         for i, sentence in enumerate(sentences):
             if i % 1000 == 0:
-                print 'Processing: %d/%d' % (i, len(sentences))
+                print('Processing: %d/%d' % (i, len(sentences)))
 
             word_vocabs = [model.vocab[w] for w in sentence if w in model.vocab and
                            model.vocab[w].sample_int > model.random.rand() * 2 ** 32]

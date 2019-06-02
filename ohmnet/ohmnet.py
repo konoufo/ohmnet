@@ -6,7 +6,7 @@ from os.path import join as pjoin
 import numpy as np
 import networkx as nx
 
-import utility
+from . import utility
 
 from .gensimmod.model.word2vec import Word2Vec
 
