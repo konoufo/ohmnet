@@ -1,0 +1,6 @@
+data/edgelists/macrophage.edgelist
+data/edgelists/leukocyte.edgelist
+data/edgelists/blood_platelet.edgelist
+data/edgelists/blood_plasma.edgelist
+data/edgelists/megakaryocyte.edgelist
+data/edgelists/hematopoietic_stem_cell.edgelist

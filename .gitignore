@@ -1,3 +1,9 @@
+# Editors
+*.sublime-*
+
+# Big files
+*.emb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -10,6 +16,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+whl/
 .Python
 env/
 build/
